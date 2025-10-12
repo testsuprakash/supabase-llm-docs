@@ -18,15 +18,16 @@ Transforms Supabase's official OpenRef YAML specifications into **token-efficien
 
 ## Supported SDKs
 
-| SDK | Versions | Total | Status |
-|-----|----------|-------|--------|
-| JavaScript/TypeScript | v1, v2 | 2 | Available |
-| Kotlin | v1, v2, v3 | 3 | Available |
-| Dart/Flutter | v1, v2 | 2 | Available |
-| C# | v0, v1 | 2 | Available |
-| Python | v2 | 1 | Available |
-| Swift | v1, v2 | 2 | Available |
-| **Total** | | **11 specs** | |
+**Complete support for all 6 Supabase SDKs across 11 versions:**
+
+- **JavaScript/TypeScript**: v1, v2 (2 versions)
+- **Kotlin**: v1, v2, v3 (3 versions)
+- **Dart/Flutter**: v1, v2 (2 versions)
+- **C#**: v0, v1 (2 versions)
+- **Python**: v2 (1 version)
+- **Swift**: v1, v2 (2 versions)
+
+Total: 11 specification files supported
 
 ## Quick Start
 
